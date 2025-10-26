@@ -1,4 +1,4 @@
-# EAFPN & HM_SORT
+# MSFFNet
 Multispectral Feature Fusion Network
 
 ## Requirements
